@@ -1,0 +1,12 @@
+Toy{id=1, name='Машинка', weight=30%}
+Toy{id=3, name='Мягкая игрушка', weight=20%}
+Toy{id=2, name='Робот', weight=50%}
+Toy{id=1, name='Машинка', weight=30%}
+Toy{id=1, name='Машинка', weight=30%}
+Toy{id=3, name='Мягкая игрушка', weight=20%}
+Toy{id=3, name='Мягкая игрушка', weight=20%}
+Toy{id=2, name='Робот', weight=50%}
+Toy{id=1, name='Машинка', weight=30%}
+Toy{id=2, name='Робот', weight=50%}
+Toy{id=2, name='Робот', weight=50%}
+Toy{id=3, name='Мягкая игрушка', weight=20%}
